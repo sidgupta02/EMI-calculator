@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
                             top: 23.98,
                             child: Container(
                               width: 153.30,
-                              height: 5.71,
+                              height: 8.71,
                               decoration: ShapeDecoration(
                                 color: Colors.black,
                                 shape: RoundedRectangleBorder(
